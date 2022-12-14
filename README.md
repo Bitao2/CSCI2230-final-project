@@ -48,4 +48,4 @@ This project has following dependencies:
 
 All dependencies are self-served, so one would only needs to use this repo and run the code.
 
-we have two results branches, because we create two different caustic rays, result-1 prefer to include ever-features, result-2 prefer to show a different caustic rays
+we have two results branches, because we create two different caustic rays, result-1 prefer to include ever features, result-2 prefer to show a different caustic rays
